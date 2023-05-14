@@ -1,0 +1,20 @@
+[
+  {
+    "idBarang": "1",
+    "namaBarang": "sandal",
+    "hargaBarang": "5000",
+    "kuantitasBarang": "10"
+  },
+  {
+    "idBarang": "2",
+    "namaBarang": "kaus",
+    "hargaBarang": "94999",
+    "kuantitasBarang": "50"
+  },
+  {
+    "idBarang": "3",
+    "namaBarang": "Celana",
+    "hargaBarang": "129999",
+    "kuantitasBarang": "25"
+  }
+]
